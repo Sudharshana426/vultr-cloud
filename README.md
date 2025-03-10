@@ -1,6 +1,10 @@
 # vultr-healix
 •	Developed a React Native application that tracks medication intake, sends refill reminders, and integrates medical histories for emergency responders. Features include an AI-driven Emergency Response System, real-time hospital recommendations, and a Freelance Doctor Network for flexible patient care.
-
+Team:
+Vishal V D
+Karthik
+Sudharshana B
+Anand
 Core App Features:
 1. Smart Pharmaceuticals:
    -->Medicine intake tracking and automated prescription refill reminders.
